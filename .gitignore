@@ -1,0 +1,13 @@
+.idea
+out
+target
+.DS_Store
+*.iml
+logs
+*.ser
+*.class
+.classpath
+.project
+.settings
+.metadata
+/bin/
